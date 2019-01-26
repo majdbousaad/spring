@@ -1,5 +1,7 @@
 # spring
 
+1- Download the project:
+
 Build with maven:
 ```
 $ mvn package
